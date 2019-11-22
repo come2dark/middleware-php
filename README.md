@@ -35,7 +35,7 @@ Below are example fields, our API can be reviewed at [bitpay.com/api](bitpay.com
 		"notify":true
 
 	},
-	"token":"<api token from the .env file>"
+	"token":"<api token>"
 }
 ```
 
